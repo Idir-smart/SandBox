@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T09:40:34.416Z" agent="5.0 (Windows)" etag="kY74or9KcsZYifR726UX" version="20.8.19" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-10T09:52:13.971Z" agent="5.0 (Windows)" etag="0OTg7DaN2xKT71Z6xvxO" version="20.8.19" type="github" pages="4">
   <diagram name="Modèle conceptuel" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="10660" dy="6913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1021,27 +1021,70 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xNA-_Jz3p9O-URo6wmuO" name="Séquence FPE">
-    <mxGraphModel dx="2261" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="2286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SNbFlXjaQ4PuWEOlOmRz-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="-650" width="30" height="60" as="geometry" />
+        <mxCell id="SNbFlXjaQ4PuWEOlOmRz-1" value="Utilisateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="-670" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SNbFlXjaQ4PuWEOlOmRz-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="-550" width="10" height="80" as="geometry" />
+          <mxGeometry x="-120" y="-560" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SNbFlXjaQ4PuWEOlOmRz-3" value="Contrat de travail" style="html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="-660" width="110" height="50" as="geometry" />
+          <mxGeometry x="-170" y="-660" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SNbFlXjaQ4PuWEOlOmRz-4" value="Jour" style="html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="60" y="-660" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SNbFlXjaQ4PuWEOlOmRz-5" value="&lt;div&gt;frais &lt;br&gt;&lt;/div&gt;" style="html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-660" width="110" height="50" as="geometry" />
+          <mxGeometry x="410" y="-660" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SNbFlXjaQ4PuWEOlOmRz-6" value="Ligne" style="html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-660" width="110" height="50" as="geometry" />
+        <mxCell id="SNbFlXjaQ4PuWEOlOmRz-6" value="Ligne frais" style="html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-660" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SNbFlXjaQ4PuWEOlOmRz-7" value="Conseiller" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="-660" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SNbFlXjaQ4PuWEOlOmRz-8" value="&lt;div&gt;Demande de &lt;br&gt;&lt;/div&gt;&lt;div&gt;paiement de frais&lt;br&gt;&lt;/div&gt;" style="html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-660" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SNbFlXjaQ4PuWEOlOmRz-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-280" y="10" as="sourcePoint" />
+            <mxPoint x="-280" y="-560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SNbFlXjaQ4PuWEOlOmRz-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1" target="SNbFlXjaQ4PuWEOlOmRz-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-280" y="-540" as="sourcePoint" />
+            <mxPoint x="-150" y="-540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SNbFlXjaQ4PuWEOlOmRz-16" value="Selectionne" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="SNbFlXjaQ4PuWEOlOmRz-12">
+          <mxGeometry x="0.2125" y="2" relative="1" as="geometry">
+            <mxPoint x="-17" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SNbFlXjaQ4PuWEOlOmRz-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-560" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SNbFlXjaQ4PuWEOlOmRz-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1" target="SNbFlXjaQ4PuWEOlOmRz-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110" y="-520.5" as="sourcePoint" />
+            <mxPoint x="50" y="-520.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SNbFlXjaQ4PuWEOlOmRz-19" value="choix du ou des jours" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="SNbFlXjaQ4PuWEOlOmRz-18">
+          <mxGeometry x="0.2125" y="2" relative="1" as="geometry">
+            <mxPoint x="-17" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SNbFlXjaQ4PuWEOlOmRz-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-560" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SNbFlXjaQ4PuWEOlOmRz-21" value="Type de frais" style="html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-660" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

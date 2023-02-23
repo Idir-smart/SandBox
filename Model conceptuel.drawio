@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T10:27:15.855Z" agent="5.0 (Windows)" etag="aliZWeMWyJuYv5X8CWKS" version="20.8.21" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-02-23T10:30:40.653Z" agent="5.0 (Windows)" etag="KeNm_xHx7LS36WTDnTLH" version="20.8.21" type="github" pages="8">
   <diagram name="Modèle conceptuel : Business" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="4580" dy="2706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1259,7 +1259,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="elQ81LHuLAY-q6tkgRUp" name="Diagramme de Classe FPE">
-    <mxGraphModel dx="1566" dy="2445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3001" dy="3211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2241,7 +2241,7 @@
         <mxCell id="X_DPbL9PKk1kJR7bFILQ-8" value="" style="line;html=1;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="X_DPbL9PKk1kJR7bFILQ-5">
           <mxGeometry y="164" width="200" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="X_DPbL9PKk1kJR7bFILQ-14" value="Diagramme de classe FPE" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+        <mxCell id="X_DPbL9PKk1kJR7bFILQ-14" value="Diagramme de classe FPE" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1020" y="-674" width="1640" height="1614" as="geometry" />
         </mxCell>
         <mxCell id="X_DPbL9PKk1kJR7bFILQ-15" value="Diagramme d&#39;Objet FPE" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">

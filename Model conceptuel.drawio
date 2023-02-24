@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T10:38:07.975Z" agent="5.0 (Windows)" etag="Hfpsmx4wGhVrpKge1GNc" version="20.8.21" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-24T11:04:37.349Z" agent="5.0 (Windows)" etag="lx9Z1iW45ZLqXATPcS2g" version="20.8.21" type="github" pages="7">
   <diagram name="Modèle conceptuel : Business" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="6569" dy="4196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2345,7 +2345,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xNA-_Jz3p9O-URo6wmuO" name="Séquence FPE">
-    <mxGraphModel dx="1914" dy="1771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3052" dy="2578" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2521,7 +2521,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nCRBFsI5DK9oKzsWgul_-63" value="Ouvre modale EncodageFPE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="nCRBFsI5DK9oKzsWgul_-62" vertex="1" connectable="0">
+        <mxCell id="nCRBFsI5DK9oKzsWgul_-63" value="Ouvre Popup EncodageFPE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="nCRBFsI5DK9oKzsWgul_-62" vertex="1" connectable="0">
           <mxGeometry x="0.0508" y="2" relative="1" as="geometry">
             <mxPoint x="-9" y="22" as="offset" />
           </mxGeometry>
@@ -2785,6 +2785,9 @@
         </mxCell>
         <mxCell id="GHAtQjaj-krCgEbNZAN2-38" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=default;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="609" y="78" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fx0pOo-r7hjjjNRSVoCQ-1" value="OK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="749" y="-256" width="37" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

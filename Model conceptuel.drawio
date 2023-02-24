@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T15:37:19.306Z" agent="5.0 (Windows)" etag="f7LiENYDr2-UJpUhPE3Q" version="20.8.21" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-24T15:45:33.226Z" agent="5.0 (Windows)" etag="48GHjfUK3TwGBD6N_NSr" version="20.8.21" type="github" pages="6">
   <diagram name="Modèle conceptuel : Business" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="5885" dy="3403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1152,7 +1152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B7sVbC62mqPCGXe1-TAV" name="Model conceptuel :Smart Group">
-    <mxGraphModel dx="1914" dy="1171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1914" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1160,7 +1160,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="elQ81LHuLAY-q6tkgRUp" name="Diagramme de Classe et Objet  FPE">
-    <mxGraphModel dx="795" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3453" dy="3069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2304,7 +2304,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="xNA-_Jz3p9O-URo6wmuO" name="Séquence FPE">
+  <diagram id="xNA-_Jz3p9O-URo6wmuO" name="Diag. Séquence FPE">
     <mxGraphModel dx="3052" dy="2401" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />

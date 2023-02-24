@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T11:09:22.460Z" agent="5.0 (Windows)" etag="rewVmReCeF_IGGxEs4PY" version="20.8.21" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-24T15:07:02.919Z" agent="5.0 (Windows)" etag="fsuFavrVRmhSnO33tdBT" version="20.8.21" type="github" pages="7">
   <diagram name="Modèle conceptuel : Business" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="6569" dy="4196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3014" dy="1871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1200,15 +1200,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="elQ81LHuLAY-q6tkgRUp" name="Diagramme de Classe et Objet  FPE">
-    <mxGraphModel dx="3985" dy="3728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1452" dy="2001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="X_DPbL9PKk1kJR7bFILQ-14" value="Diagramme de classe FPE" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="-674" width="1640" height="1514" as="geometry" />
+          <mxGeometry x="1030" y="-730" width="1640" height="1570" as="geometry" />
         </mxCell>
         <mxCell id="X_DPbL9PKk1kJR7bFILQ-15" value="Diagramme d&#39;Objet FPE" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2700" y="-700" width="2320" height="840" as="geometry" />
+          <mxGeometry x="2700" y="-730" width="2320" height="870" as="geometry" />
         </mxCell>
         <mxCell id="ljCjkTRCPwdlT1wkm0qL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.006;exitY=0.873;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=diamondThin;startFill=1;exitPerimeter=0;" parent="1" source="ljCjkTRCPwdlT1wkm0qL-5" target="ljCjkTRCPwdlT1wkm0qL-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2793,7 +2793,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TWtsQZTKFMkbizSjuZcH" name="Page-8">
-    <mxGraphModel dx="1914" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1914" dy="1171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

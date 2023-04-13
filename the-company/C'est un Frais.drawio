@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T13:29:14.528Z" agent="5.0 (Windows)" etag="6GqlDiDC7CDIK-nucGvl" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T13:31:41.850Z" agent="5.0 (Windows)" etag="cZccexbpzE2E_rqyMFRK" version="21.0.10" type="github">
   <diagram name="Page-1" id="Cz1DcCV8kcju5Lz9-Ll6">
-    <mxGraphModel dx="1888" dy="1713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2138" dy="1841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,6 +215,9 @@
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-62" value="Est considéré comme du stock" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#66CC00;" vertex="1" parent="1">
           <mxGeometry x="1305" y="1005" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hf8lr7uTCe2eLLUQD9QN-72" target="Hf8lr7uTCe2eLLUQD9QN-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-72" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1072.5" y="1200" width="5" height="80" as="geometry" />
         </mxCell>
@@ -273,6 +276,9 @@
         </mxCell>
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-110" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
           <mxGeometry x="582.5" y="1200" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-112" value="Plus de 250€" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

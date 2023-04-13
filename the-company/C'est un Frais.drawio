@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T13:28:11.975Z" agent="5.0 (Windows)" etag="-88NUtNO9C1hLeQ01plf" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T13:28:47.407Z" agent="5.0 (Windows)" etag="P-W66RrjkBVwxPgA6zgH" version="21.0.10" type="github">
   <diagram name="Page-1" id="Cz1DcCV8kcju5Lz9-Ll6">
-    <mxGraphModel dx="1595" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3055" dy="2311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,6 +185,9 @@
             <mxPoint x="-45" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hf8lr7uTCe2eLLUQD9QN-54" target="Hf8lr7uTCe2eLLUQD9QN-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-54" value="" style="rhombus;" vertex="1" parent="1">
           <mxGeometry x="582.5" y="1090" width="30" height="30" as="geometry" />
         </mxCell>
@@ -253,7 +256,7 @@
         </mxCell>
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-104" value="(Comptabilisation)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hf8lr7uTCe2eLLUQD9QN-103">
           <mxGeometry x="-0.3551" relative="1" as="geometry">
-            <mxPoint y="10" as="offset" />
+            <mxPoint x="-6" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-95" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=-90;" vertex="1" parent="1">
@@ -267,6 +270,9 @@
         </mxCell>
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-107" value="Est considéré fourniture" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#66CC00;" vertex="1" parent="1">
           <mxGeometry x="1520" y="1005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-110" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="582.5" y="1200" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

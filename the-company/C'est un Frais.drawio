@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T12:31:07.436Z" agent="5.0 (Windows)" etag="TtPK0H8LMOaDOrsOO7Yj" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T12:53:43.879Z" agent="5.0 (Windows)" etag="1mPmeBw5KyI7gS_Z71Mi" version="21.0.10" type="github">
   <diagram name="Page-1" id="Cz1DcCV8kcju5Lz9-Ll6">
-    <mxGraphModel dx="2422" dy="2020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2418" dy="1985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,7 +114,7 @@
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-35" value="Pas d&#39;impot" style="html=1;align=center;verticalAlign=top;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="335" y="1340" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-37" value="&lt;div align=&quot;center&quot;&gt;Fiscal : L&#39;entreprise doit payer de l&#39;impot sur le bénéfice selon la part de dépense non admise&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;Si facture alors TVa récupérable sur la partie admise&lt;br&gt;&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-37" value="&lt;div align=&quot;center&quot;&gt;Fiscal : L&#39;entreprise doit payer de l&#39;impot sur le bénéfice selon la part de dépense non admise&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;Si facture alors TVA récupérable sur la partie admise&lt;br&gt;&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="40" y="1340" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hf8lr7uTCe2eLLUQD9QN-41">
@@ -140,7 +140,7 @@
         </mxCell>
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-64" value="Service" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hf8lr7uTCe2eLLUQD9QN-51">
           <mxGeometry x="0.6213" y="1" relative="1" as="geometry">
-            <mxPoint x="-9" y="-1" as="offset" />
+            <mxPoint x="-9" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hf8lr7uTCe2eLLUQD9QN-46" target="Hf8lr7uTCe2eLLUQD9QN-62">
@@ -174,7 +174,7 @@
         </mxCell>
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-99" value="Non" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hf8lr7uTCe2eLLUQD9QN-84">
           <mxGeometry x="-0.2242" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-11" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-54" value="" style="rhombus;" vertex="1" parent="1">
@@ -201,7 +201,7 @@
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-60" value="" style="rhombus;" vertex="1" parent="1">
           <mxGeometry x="1060" y="1105" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-62" value="Est considéré comme du stock" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-62" value="Est considéré comme du stock" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#66CC00;" vertex="1" parent="1">
           <mxGeometry x="1305" y="1005" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-72" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=-90;" vertex="1" parent="1">

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T13:27:04.836Z" agent="5.0 (Windows)" etag="Ivpu0NTn8OJsCV-3e2az" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T13:28:11.975Z" agent="5.0 (Windows)" etag="-88NUtNO9C1hLeQ01plf" version="21.0.10" type="github">
   <diagram name="Page-1" id="Cz1DcCV8kcju5Lz9-Ll6">
-    <mxGraphModel dx="2418" dy="1985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,7 +251,7 @@
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hf8lr7uTCe2eLLUQD9QN-95" target="Hf8lr7uTCe2eLLUQD9QN-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-104" value="(Comptable)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hf8lr7uTCe2eLLUQD9QN-103">
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-104" value="(Comptabilisation)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hf8lr7uTCe2eLLUQD9QN-103">
           <mxGeometry x="-0.3551" relative="1" as="geometry">
             <mxPoint y="10" as="offset" />
           </mxGeometry>

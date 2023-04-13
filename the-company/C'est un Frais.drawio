@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T13:28:47.407Z" agent="5.0 (Windows)" etag="P-W66RrjkBVwxPgA6zgH" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T13:29:14.528Z" agent="5.0 (Windows)" etag="6GqlDiDC7CDIK-nucGvl" version="21.0.10" type="github">
   <diagram name="Page-1" id="Cz1DcCV8kcju5Lz9-Ll6">
-    <mxGraphModel dx="3055" dy="2311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="1713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,7 +30,7 @@
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hf8lr7uTCe2eLLUQD9QN-6" target="Hf8lr7uTCe2eLLUQD9QN-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-6" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Les frais sont exposés dans le cadre de la relation de travail, ?&lt;br&gt;&lt;/li&gt;&lt;li&gt;Ils sont réel&lt;/li&gt;&lt;li&gt;&amp;nbsp;l&#39;employeur peut justifier cette dépense à l&#39;aide de pièce &amp;nbsp; ? &lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="html=1;align=left;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-6" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Les frais sont exposés dans le cadre de la relation de travail, ?&lt;br&gt;&lt;/li&gt;&lt;li&gt;Ils sont réel ?&lt;br&gt;&lt;/li&gt;&lt;li&gt;&amp;nbsp;l&#39;employeur peut justifier cette dépense à l&#39;aide de pièce &amp;nbsp; ? &lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="html=1;align=left;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-30" y="750" width="330" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hf8lr7uTCe2eLLUQD9QN-10" target="Hf8lr7uTCe2eLLUQD9QN-12">
@@ -232,7 +232,7 @@
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hf8lr7uTCe2eLLUQD9QN-86" target="Hf8lr7uTCe2eLLUQD9QN-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-105" value="TVA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hf8lr7uTCe2eLLUQD9QN-90">
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-105" value="(TVA)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hf8lr7uTCe2eLLUQD9QN-90">
           <mxGeometry x="-0.0577" y="1" relative="1" as="geometry">
             <mxPoint x="-11" y="-16" as="offset" />
           </mxGeometry>

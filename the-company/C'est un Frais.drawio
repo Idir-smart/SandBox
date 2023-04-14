@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T13:31:41.850Z" agent="5.0 (Windows)" etag="cZccexbpzE2E_rqyMFRK" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T06:09:45.538Z" agent="5.0 (Windows)" etag="aBaZJ9YmUK4vm8KEGFp6" version="21.0.10" type="github">
   <diagram name="Page-1" id="Cz1DcCV8kcju5Lz9-Ll6">
-    <mxGraphModel dx="2138" dy="1841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2650" dy="2141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -218,6 +218,19 @@
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hf8lr7uTCe2eLLUQD9QN-72" target="Hf8lr7uTCe2eLLUQD9QN-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-127" value="(Comptabilisation)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hf8lr7uTCe2eLLUQD9QN-113">
+          <mxGeometry x="-0.5956" y="1" relative="1" as="geometry">
+            <mxPoint x="-112" y="39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hf8lr7uTCe2eLLUQD9QN-72" target="Hf8lr7uTCe2eLLUQD9QN-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-128" value="(Socialisation et fiscalisation)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hf8lr7uTCe2eLLUQD9QN-115">
+          <mxGeometry x="-0.3457" y="4" relative="1" as="geometry">
+            <mxPoint x="51" y="34" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-72" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1072.5" y="1200" width="5" height="80" as="geometry" />
         </mxCell>
@@ -277,8 +290,45 @@
         <mxCell id="Hf8lr7uTCe2eLLUQD9QN-110" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
           <mxGeometry x="582.5" y="1200" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-112" value="Plus de 250€" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1350" width="120" height="60" as="geometry" />
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hf8lr7uTCe2eLLUQD9QN-112" target="Hf8lr7uTCe2eLLUQD9QN-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-112" value="Plus de 250€ ?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hf8lr7uTCe2eLLUQD9QN-114" target="Hf8lr7uTCe2eLLUQD9QN-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-114" value="Usage partiellement privé ? " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1195" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hf8lr7uTCe2eLLUQD9QN-116" target="Hf8lr7uTCe2eLLUQD9QN-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-126" value="Oui" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hf8lr7uTCe2eLLUQD9QN-123">
+          <mxGeometry x="-0.3764" relative="1" as="geometry">
+            <mxPoint x="1" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hf8lr7uTCe2eLLUQD9QN-116" target="Hf8lr7uTCe2eLLUQD9QN-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-125" value="Non" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hf8lr7uTCe2eLLUQD9QN-124">
+          <mxGeometry x="-0.3311" y="-2" relative="1" as="geometry">
+            <mxPoint y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-116" value="" style="rhombus;" vertex="1" parent="1">
+          <mxGeometry x="865" y="1460" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-118" value="" style="rhombus;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1460" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-121" value="Dotation au amortissement (selon le type de bien la durée d&#39;amortissementest différente)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#66CC00;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1580" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Hf8lr7uTCe2eLLUQD9QN-122" value="Pas de dotation au amortissemrnt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#66CC00;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

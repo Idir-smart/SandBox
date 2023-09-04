@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T17:16:37.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="MDAMX-X-TIxeHs5bD__b" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T20:04:16.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="kTPpQEGPNaGvLH9lmQv3" version="21.5.1" type="github">
   <diagram name="Page-1" id="J4AY9SnCHGe8KZv4-1K8">
-    <mxGraphModel dx="2524" dy="2127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1797" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -305,7 +305,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DnWAwpr0GCzrHFZK8KwO-122" value="Réparation " style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="930" width="160" height="150" as="geometry" />
+          <mxGeometry x="590" y="930" width="160" height="176" as="geometry" />
         </mxCell>
         <mxCell id="DnWAwpr0GCzrHFZK8KwO-123" value="Id pièce" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="DnWAwpr0GCzrHFZK8KwO-122">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -316,11 +316,14 @@
         <mxCell id="DnWAwpr0GCzrHFZK8KwO-133" value="date de réparation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="DnWAwpr0GCzrHFZK8KwO-122">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="DnWAwpr0GCzrHFZK8KwO-124" value="Prestataire de la réparation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="DnWAwpr0GCzrHFZK8KwO-122">
-          <mxGeometry y="104" width="160" height="38" as="geometry" />
+        <mxCell id="DnWAwpr0GCzrHFZK8KwO-176" value="Réparateur" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="DnWAwpr0GCzrHFZK8KwO-122">
+          <mxGeometry y="104" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DnWAwpr0GCzrHFZK8KwO-124" value="Nom du prestataire de la réparation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="DnWAwpr0GCzrHFZK8KwO-122">
+          <mxGeometry y="130" width="160" height="38" as="geometry" />
         </mxCell>
         <mxCell id="DnWAwpr0GCzrHFZK8KwO-125" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="DnWAwpr0GCzrHFZK8KwO-122">
-          <mxGeometry y="142" width="160" height="8" as="geometry" />
+          <mxGeometry y="168" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="DnWAwpr0GCzrHFZK8KwO-135" value="Outil" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1410" y="1109" width="160" height="86" as="geometry" />
@@ -400,6 +403,9 @@
         </mxCell>
         <mxCell id="DnWAwpr0GCzrHFZK8KwO-171" value="Doit t&#39;on pouvor faire plusieurs réparation pour résoudre le problème ? " style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1370" y="474" width="120" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="DnWAwpr0GCzrHFZK8KwO-174" value="Dans un premier temps faire la distinction externe interne seulement pour les prestatire ? " style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1102" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

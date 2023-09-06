@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T11:11:11.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="aXZVodA8XeXA2gzTp-5f" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T11:12:41.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="mA81GpJzdCCvz90PnCFu" version="21.7.2" type="github">
   <diagram name="Page-1" id="J4AY9SnCHGe8KZv4-1K8">
     <mxGraphModel dx="2799" dy="2287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,7 +140,7 @@
         </mxCell>
         <mxCell id="n1DBK58FdpPRWccANjWo-23" value="1..n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="DnWAwpr0GCzrHFZK8KwO-46">
           <mxGeometry x="-0.8429" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="16" y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DnWAwpr0GCzrHFZK8KwO-50" value="Cycliste" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">

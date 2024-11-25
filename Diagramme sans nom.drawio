@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.7.14">
   <diagram name="Page-1" id="UsaG1lm6yqh_T-RlHGfQ">
-    <mxGraphModel dx="2261" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2739" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--49" value="Unity" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="111.75" y="1040" width="180" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="CwWRZfxx0TAXARHX_Gy--34" value="APP smart" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="630" y="60" width="253" height="90" as="geometry" />
         </mxCell>
@@ -37,7 +40,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CwWRZfxx0TAXARHX_Gy--5" value="Calculer les données " style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--5" value="Calculer les Règles " style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="390" y="180" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CwWRZfxx0TAXARHX_Gy--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CwWRZfxx0TAXARHX_Gy--6" target="CwWRZfxx0TAXARHX_Gy--5">
@@ -47,7 +50,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CwWRZfxx0TAXARHX_Gy--6" value="charger donnée " style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--6" value="Trier donnée " style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="260" y="330" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CwWRZfxx0TAXARHX_Gy--9" value="Injecter dans ForHRM" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
@@ -69,7 +72,7 @@
           <mxGeometry x="557" y="750" width="253" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CwWRZfxx0TAXARHX_Gy--19" value="APP Smart" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="160" y="740" width="340" height="110" as="geometry" />
+          <mxGeometry x="160" y="740" width="670" height="110" as="geometry" />
         </mxCell>
         <mxCell id="CwWRZfxx0TAXARHX_Gy--20" value="Excel" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-150" y="600" width="480" height="90" as="geometry" />
@@ -108,6 +111,129 @@
         </mxCell>
         <mxCell id="CwWRZfxx0TAXARHX_Gy--29" value="Saisir donnée" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-140" y="630" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--35" value="APP smart" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="843.5" y="1160" width="253" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--36" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;L&#39;année Prochaine &lt;/font&gt;&lt;br&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-358.5" y="880" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--37" value="APP smart" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="547" y="1150" width="253" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--39" value="Desck" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-423.25" y="1000" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CwWRZfxx0TAXARHX_Gy--41" target="CwWRZfxx0TAXARHX_Gy--43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="1200" />
+            </Array>
+            <mxPoint x="260" y="1200.0666666666666" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--41" value="Stocker donnée" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="131.75" y="1065" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CwWRZfxx0TAXARHX_Gy--43" target="CwWRZfxx0TAXARHX_Gy--46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--43" value="Calculer les règles " style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1180" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--46" value="&lt;div&gt;Injecter dans ForHRM&lt;/div&gt;&lt;div&gt;Le résultat&lt;br&gt;&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1180" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CwWRZfxx0TAXARHX_Gy--48" target="CwWRZfxx0TAXARHX_Gy--92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--48" value="&lt;div&gt;Saisir donnée&lt;/div&gt;&lt;div&gt;(enregistrement)&lt;br&gt;&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-413.25" y="1030" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--50" value="Unity" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="91.75" y="1425" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--51" value="APP smart" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1586" width="253" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--53" value="APP smart" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="287" y="1575" width="253" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--55" value="Desck" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-646.25" y="1420" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CwWRZfxx0TAXARHX_Gy--57" target="CwWRZfxx0TAXARHX_Gy--59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--57" value="Stocker donnée" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="111.75" y="1450" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CwWRZfxx0TAXARHX_Gy--59" target="CwWRZfxx0TAXARHX_Gy--62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--59" value="Calculer les règles " style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1605" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--62" value="Injecter dans ForHRM" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="796.5" y="1606" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CwWRZfxx0TAXARHX_Gy--64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-260" y="1470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--64" value="Saisir donnée" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-636.25" y="1450" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--65" value="&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Cette année Si on n&#39;utilise pas la solution Roger SAAS&amp;nbsp; &lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-423.25" y="1300" width="823.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--72" value="Script Smart" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-337.75" y="1590" width="211.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--73" value="Excel 1 " style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-646.25" y="1595" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--78" value="charger donnée " style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-304.5" y="1625" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CwWRZfxx0TAXARHX_Gy--80" target="CwWRZfxx0TAXARHX_Gy--78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-446.25" y="1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--80" value="Saisir donnée" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-636.25" y="1625" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--82" value="Script Smart" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="1425" width="211.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="CwWRZfxx0TAXARHX_Gy--83" target="CwWRZfxx0TAXARHX_Gy--57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--83" value="Charger les données " style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="1460" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.095;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CwWRZfxx0TAXARHX_Gy--72" target="CwWRZfxx0TAXARHX_Gy--57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--88" value="Unity" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-423.25" y="1110" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CwWRZfxx0TAXARHX_Gy--89" target="CwWRZfxx0TAXARHX_Gy--92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--89" value="&lt;div&gt;Saisir donnée&lt;/div&gt;&lt;div&gt;(Modification)&lt;br&gt;&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-413.25" y="1140" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--91" value="Script Smart" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-175.75" y="1030" width="211.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CwWRZfxx0TAXARHX_Gy--92" target="CwWRZfxx0TAXARHX_Gy--41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CwWRZfxx0TAXARHX_Gy--92" value="charger donnée " style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-142.5" y="1065" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

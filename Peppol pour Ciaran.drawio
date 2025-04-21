@@ -1,9 +1,99 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.13">
   <diagram name="Page-1" id="kP2ukPVaJ8FIL573-E02">
-    <mxGraphModel>
+    <mxGraphModel dx="2068" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="A8eHSgnmsALNsSax2Csn-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;font&gt;Choix de l&#39;access Point &lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="50" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Dialogue Acces point X Smart&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="450" y="50" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Flux de saisie de données &lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="870" y="50" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-4" value="Définir ce q&#39;uon fait avec les DO étranger sur Pepol&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="110" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-5" value="Installer et parametrer l&#39;access Point" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;b&gt;A FAIRE &lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-8" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Questions en attente&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="409" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-10" value="Souhaitons nous archiver nous même les PJ ? " style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="469" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-11" value="Faut t&#39;il un acces point par structure juridique ? " style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="549" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-12" value="Ou passerons nous par Age pour les entités autres ? " style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="629" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-13" value="en tant que système je dois pouvoir avoir un access point afin d&#39;interagir avec le réseau Pepoll" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="230" width="140" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Besoin&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-15" value="en tant que système je dois pouvoir traduire mes factures en UBL " style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="230" width="140" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-16" value="Choisir l&#39;access Point " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-17" value="en tant que système je dois pouvoir Envoyer une facture UBL à l&#39;acces point" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="350" width="140" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-18" value="Faire des tests d&#39;envois " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="400" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-19" value="Analyser comment envoyer (récurences ect..) " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="350" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-22" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Questions en attente&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="585" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-23" value="Est ce que des factures sont encodés ajd dans sage directemetn ? Que faire pour cette population ? " style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="430" y="640" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-26" value="Sur quoi faut t&#39;il s&#39;apuyer sur facture d&#39;achat (Nw db en intégrant l&#39;exsistant, new db séparée , old db séparée)" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="840" y="640" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-27" value="En tant qu&#39;utilisateur je dois pouvoir lire les donénes d&#39;une facture d&#39;achat UBL sur une interface " style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="231" width="140" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-28" value="Vérifier que c&#39;est ok ? " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-30" value="Analyser et dévelloper " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="290" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-31" value="En tant qu&#39;utilisateur je dois pouvoir m&#39;appueyr sur une db solide de client/fournisseur " style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="469" width="140" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-32" value="En tant qu&#39;utiisateur je dois pouvoir choisir une factured&#39;achat pour l&#39;assigner à l&#39;UP " style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="350" width="140" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-34" value="En tatn que système je dois pouvoir faire la distinction entre Client utilisaant Pepople et d&#39;autre non " style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="110" width="140" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-35" value="Définir architecture " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="231" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-36" value="Version U&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="350" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-37" value="Version SU " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="409" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-38" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Questions en attente&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="584.5" width="210" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

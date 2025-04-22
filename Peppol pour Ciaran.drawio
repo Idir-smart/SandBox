@@ -100,6 +100,15 @@
         <mxCell id="A8eHSgnmsALNsSax2Csn-40" value="Abandon de créance , frais non éligibles ? " style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="850" y="860" width="290" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-41" value="Quelles sont les clefs de réconciliations ? " style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="850" y="960" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-42" value="Comment gérer la gestion des bons de commandes " style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1070" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A8eHSgnmsALNsSax2Csn-43" value="Combien d&#39;UBL sont généré dans la facture ? pouvons nous faire la distinction de ce que nosu souhaitons envoyer " style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="430" y="740" width="290" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

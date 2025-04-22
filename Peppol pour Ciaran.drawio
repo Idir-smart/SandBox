@@ -14,7 +14,7 @@
           <mxGeometry x="870" y="50" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A8eHSgnmsALNsSax2Csn-4" value="Définir ce q&#39;uon fait avec les DO étranger sur Pepol&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="110" width="190" height="30" as="geometry" />
+          <mxGeometry x="1010" y="130" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A8eHSgnmsALNsSax2Csn-5" value="Installer et parametrer l&#39;access Point" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="290" width="190" height="30" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="860" y="350" width="140" height="89" as="geometry" />
         </mxCell>
         <mxCell id="A8eHSgnmsALNsSax2Csn-34" value="En tatn que système je dois pouvoir faire la distinction entre Client utilisaant Pepople et d&#39;autre non " style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="110" width="140" height="89" as="geometry" />
+          <mxGeometry x="860" y="130.5" width="140" height="89" as="geometry" />
         </mxCell>
         <mxCell id="A8eHSgnmsALNsSax2Csn-35" value="Définir architecture " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="231" width="190" height="30" as="geometry" />

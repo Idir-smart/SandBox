@@ -106,7 +106,7 @@
         </mxCell>
         <mxCell id="4A0KL1MSQtOTcGNi7LE1-5" value="&lt;i style=&quot;background-color: rgb(229, 204, 255);&quot;&gt;(data : raison de l’échec)&amp;nbsp;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f2-U6n9gVPk1ubtNlB9U-51">
           <mxGeometry x="0.5917" y="2" relative="1" as="geometry">
-            <mxPoint x="29" y="18" as="offset" />
+            <mxPoint x="19" y="28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f2-U6n9gVPk1ubtNlB9U-34" value="Sélectionner une des raison de l&#39;echec de la recherche" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
@@ -128,7 +128,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f2-U6n9gVPk1ubtNlB9U-45" value="&lt;div&gt;[Automatique]&lt;/div&gt;&lt;div&gt;Pré rempli formulaire&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4A0KL1MSQtOTcGNi7LE1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f2-U6n9gVPk1ubtNlB9U-34" target="4A0KL1MSQtOTcGNi7LE1-2">
           <mxGeometry relative="1" as="geometry">
@@ -164,7 +164,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4A0KL1MSQtOTcGNi7LE1-14" value="&lt;div align=&quot;left&quot;&gt;&lt;i style=&quot;background-color: rgb(229, 204, 255);&quot;&gt;(Data :&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;i style=&quot;background-color: rgb(229, 204, 255);&quot;&gt;Raison de l&#39;échec ;&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;background-color: rgb(229, 204, 255);&quot;&gt;&lt;i&gt;Information de contact du FRN)&lt;/i&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="380" y="1000" as="geometry" />
+          <mxGeometry x="370" y="1000" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

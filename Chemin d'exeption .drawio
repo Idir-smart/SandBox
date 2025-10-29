@@ -257,8 +257,8 @@
             <mxPoint x="1040" y="103" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="snfCRiJcaJUQbeErvAGi-21" value="&lt;div align=&quot;left&quot;&gt;Tout les 15 jours&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#FFFFFF;align=left;" vertex="1" parent="1">
-          <mxGeometry x="790" y="70" width="250" height="20" as="geometry" />
+        <mxCell id="snfCRiJcaJUQbeErvAGi-21" value="&lt;div align=&quot;left&quot;&gt;Tout les 15 jours :&amp;nbsp; Vérifier si une facture correspond (rapide) pour les FRN défaillants&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="790" y="50" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="snfCRiJcaJUQbeErvAGi-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0.185;exitY=0.04;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -271,6 +271,9 @@
         </mxCell>
         <mxCell id="snfCRiJcaJUQbeErvAGi-24" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1190" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="snfCRiJcaJUQbeErvAGi-25" value="15J" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="145" width="30" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

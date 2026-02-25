@@ -457,7 +457,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="M7H6teeA_7YERoH8XYeF" name="Page-5">
-    <mxGraphModel dx="914" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1266" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -510,6 +510,9 @@
         </mxCell>
         <mxCell id="Q-Y1Sc8wlrM6fwOv7-nb-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Existant&amp;nbsp;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="170" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="m7IYXb0fRNP0D1m3EZCR-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;div&gt;&lt;b&gt;Problème de la conception actuelle ?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;On est obliger de créer une NDF avant de saisir une dépense&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Alors&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="530" x="200" y="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

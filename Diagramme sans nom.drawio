@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.5.3" pages="4">
   <diagram name="Service" id="JPjcQ4GzdVpIa8GtwLoV">
-    <mxGraphModel dx="1206" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1219" dy="1782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,7 +206,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copie de Cible Model" id="Z-Xw9uOAcTRe5d0H7IO2">
+  <diagram name="détail paiment du fournisseur" id="Z-Xw9uOAcTRe5d0H7IO2">
     <mxGraphModel dx="914" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="BKM_U6Q5XLF2iViGfOa0-0" />
@@ -365,7 +365,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copie de Copie de Cible Model" id="0qpQZyg7zgbGS4OEFSJG">
+  <diagram name="Focus " id="0qpQZyg7zgbGS4OEFSJG">
     <mxGraphModel dx="914" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="-5ohjlpxO3Hf4mBdJFfr-0" />

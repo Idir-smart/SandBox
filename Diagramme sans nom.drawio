@@ -30,25 +30,25 @@
         <mxCell id="R_raL8o0nhpdXFdWwTxu-10" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;dashed=1;" value="&lt;div align=&quot;left&quot;&gt;attachment intelligence&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="150" x="320" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="R_raL8o0nhpdXFdWwTxu-14" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=square;dashed=1;dashPattern=8 8;" value="OCR" vertex="1">
+        <mxCell id="R_raL8o0nhpdXFdWwTxu-14" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=generic;archiType=square;dashed=1;dashPattern=8 8;" value="OCR" vertex="1">
           <mxGeometry height="25" width="100" x="340" y="395" as="geometry" />
         </mxCell>
-        <mxCell id="R_raL8o0nhpdXFdWwTxu-15" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=square;dashed=1;dashPattern=8 8;" value="AI" vertex="1">
+        <mxCell id="R_raL8o0nhpdXFdWwTxu-15" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=generic;archiType=square;dashed=1;dashPattern=8 8;" value="AI" vertex="1">
           <mxGeometry height="25" width="100" x="340" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="R_raL8o0nhpdXFdWwTxu-16" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=square;dashed=1;dashPattern=8 8;" value="Payment card API" vertex="1">
+        <mxCell id="R_raL8o0nhpdXFdWwTxu-16" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=generic;archiType=square;dashed=1;dashPattern=8 8;" value="Payment card API" vertex="1">
           <mxGeometry height="25" width="100" x="340" y="490" as="geometry" />
         </mxCell>
         <mxCell id="R_raL8o0nhpdXFdWwTxu-19" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" value="&lt;div&gt;Expense&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="300" width="150" x="585" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="R_raL8o0nhpdXFdWwTxu-20" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=square;" value="Create Expense" vertex="1">
+        <mxCell id="R_raL8o0nhpdXFdWwTxu-20" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=generic;archiType=square;" value="Create Expense" vertex="1">
           <mxGeometry height="25" width="100" x="610" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="R_raL8o0nhpdXFdWwTxu-21" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=square;" value="Workflow" vertex="1">
+        <mxCell id="R_raL8o0nhpdXFdWwTxu-21" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=generic;archiType=square;" value="Workflow" vertex="1">
           <mxGeometry height="25" width="100" x="610" y="245" as="geometry" />
         </mxCell>
-        <mxCell id="R_raL8o0nhpdXFdWwTxu-22" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=square;" value="Business Rules" vertex="1">
+        <mxCell id="R_raL8o0nhpdXFdWwTxu-22" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=generic;archiType=square;" value="Business Rules" vertex="1">
           <mxGeometry height="25" width="100" x="610" y="282.5" as="geometry" />
         </mxCell>
         <mxCell id="R_raL8o0nhpdXFdWwTxu-23" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#dae8fc;shape=mxgraph.archimate3.application;appType=generic;archiType=square;strokeColor=#6c8ebf;" value="attachment match" vertex="1">
@@ -57,7 +57,7 @@
         <mxCell id="R_raL8o0nhpdXFdWwTxu-25" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=generic;archiType=square;" value="Peppol match" vertex="1">
           <mxGeometry height="25" width="100" x="610" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="R_raL8o0nhpdXFdWwTxu-26" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=square;" value="Create Expense Report" vertex="1">
+        <mxCell id="R_raL8o0nhpdXFdWwTxu-26" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=generic;archiType=square;" value="Create Expense Report" vertex="1">
           <mxGeometry height="30" width="100" x="610" y="400" as="geometry" />
         </mxCell>
         <mxCell id="R_raL8o0nhpdXFdWwTxu-33" edge="1" parent="1" source="R_raL8o0nhpdXFdWwTxu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" target="R_raL8o0nhpdXFdWwTxu-1">
